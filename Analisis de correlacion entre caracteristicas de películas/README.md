@@ -4,35 +4,44 @@ Este informe presenta un análisis de correlación de diferentes característica
 
 ## Introducción
 
-* Breve descripción del análisis y su propósito.
+El objetivo de este análisis es estudiar las relaciones entre diferentes características de las películas y descubrir posibles patrones o tendencias que puedan proporcionar información valiosa para la industria del cine.
 
 ## Metodología
 
-* Descripción de las librerías utilizadas (pandas, numpy, seaborn, matplotlib).
-* Proceso de limpieza y preparación de datos (eliminación de duplicados, tratamiento de valores faltantes, conversión de tipos de datos).
+Para llevar a cabo este análisis, se han utilizado las siguientes librerías de Python:
+
+pandas: para la manipulación y el análisis de datos.
+numpy: para operaciones matemáticas y de álgebra lineal.
+seaborn: para la visualización de datos estadísticos.
+matplotlib: para la generación de gráficos y visualizaciones.
+
+El proceso de limpieza y preparación de datos incluyó la eliminación de duplicados, el tratamiento de valores faltantes y la conversión de tipos de datos para facilitar el análisis.
 
 ## Análisis exploratorio
 
-* Visualización de gráficos de dispersión y boxplots para identificar relaciones entre variables y posibles valores atípicos.
+Se generaron gráficos de dispersión y boxplots para identificar relaciones entre variables y posibles valores atípicos. Estas visualizaciones ayudaron a detectar patrones y a comprender mejor la distribución de los datos.
+
 * ![Scatterplot - Budget vs Gross Earnings](regplot1.png)
 * ![Boxplot - Gross](boxplot.png)
 
 ## Matriz de correlación
 
-* Cálculo de la matriz de correlación de Pearson y Kendall.
+Se calcularon las matrices de correlación de Pearson y Kendall para analizar las relaciones lineales y de rango entre las variables numéricas. Posteriormente, se visualizó la matriz de correlación mediante un mapa de calor.
+
 * Visualización de la matriz de correlación mediante un mapa de calor.
 * ![Heatmap - Correlation Matrix](heatmap.png)
 
 ## Análisis de correlación con variables categóricas
 
-* Conversión de variables categóricas a numéricas mediante la función `factorize`.
-* Cálculo de la matriz de correlación con las variables categóricas convertidas.
+Para analizar las relaciones entre variables categóricas y numéricas, se convirtieron las variables categóricas a numéricas utilizando la función factorize. Luego, se calculó la matriz de correlación con las variables categóricas convertidas y se visualizó mediante un mapa de calor.
+
 * Visualización de la matriz de correlación con un mapa de calor.
 * ![Heatmap - Correlation Matrix with Categorical Variables](heatmap2.png)
 
 ## Resultados
 
-* Identificación de pares de variables con alta correlación.
+Se identificaron pares de variables con alta correlación, lo que sugiere relaciones significativas entre estas características. Además, se visualizó la relación entre la calificación y la recaudación para entender cómo influye la calificación en el desempeño financiero de una película.
+
 * Visualización de la relación entre la calificación y la recaudación.
 * ![Stripplot - Rating vs Gross](stripplot2s.png)
 
