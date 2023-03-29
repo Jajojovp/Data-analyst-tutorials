@@ -43,7 +43,7 @@ Para analizar las relaciones entre variables categóricas y numéricas, se convi
 Se identificaron pares de variables con alta correlación, lo que sugiere relaciones significativas entre estas características. Además, se visualizó la relación entre la calificación y la recaudación para entender cómo influye la calificación en el desempeño financiero de una película.
 
 * Visualización de la relación entre la calificación y la recaudación.
-* ![Stripplot - Rating vs Gross](stripplot2s.png)
+* ![Stripplot - Rating vs Gross](stripplot2.png)
 
 ## Conclusiones
 
