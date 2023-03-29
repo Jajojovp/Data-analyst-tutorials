@@ -1,0 +1,7 @@
+El análisis predictivo realizado en el código utiliza un modelo de RandomForestRegressor para predecir el precio (MSRP) de los automóviles en función de ciertas características, como 'Make', 'Model', 'Year', 'Engine HP', 'Engine Cylinders', 'Transmission Type', y 'Driven_Wheels'. Los datos se preprocesaron y limpiaron eliminando columnas irrelevantes, filas duplicadas y nulos, y codificando variables categóricas.
+
+Se evaluó el rendimiento del modelo utilizando diferentes proporciones de datos de entrenamiento y prueba (60%, 70%, 80% y 90% para entrenamiento). El error cuadrático medio (MSE) y el coeficiente de determinación (R2) se utilizaron como métricas de evaluación.
+
+Los resultados muestran que el rendimiento del modelo mejora a medida que aumenta la proporción de entrenamiento, con un aumento en el R2 y una disminución en el MSE. La gráfica de R2 Score vs Proporción de entrenamiento muestra claramente la tendencia ascendente del coeficiente de determinación.
+
+En conclusión, el modelo de Random Forest parece ser un enfoque efectivo para predecir el precio de los automóviles en función de las características proporcionadas. A medida que aumenta la proporción de datos de entrenamiento, el modelo se ajusta mejor a los datos y las predicciones se vuelven más precisas. Sin embargo, se recomienda realizar una validación cruzada y probar diferentes modelos y hiperparámetros para obtener una evaluación más sólida del rendimiento y encontrar el mejor modelo para este problema.
