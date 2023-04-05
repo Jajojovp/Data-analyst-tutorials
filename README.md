@@ -43,27 +43,11 @@ RecyPro es un proyecto enfocado en la sostenibilidad ambiental y la responsabili
 - 🛠 Create personal projects and collaborate on projects that interest me / Créer des projets personnels et collaborer sur des projets qui m'intéressent / Crear proyectos personales y colaborar en proyectos que me interesen
 - 🌍 Contribute to environmentally-friendly and socially responsible projects / Contribuer à des projets respectueux de l'environnement et socialement responsables / Contribuir a proyectos ecológicos y socialmente responsables
 
-## 📈 GitHub Stats / Statistiques GitHub / Estadísticas de GitHub
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jajojo_v&show_icons=true&theme=radical&locale=en" alt="GitHub Stats Jajojo_v (English)" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jajojo_v&show_icons=true&theme=radical&locale=fr" alt="Statistiques GitHub Jajojo_v (Français)" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jajojo_v&show
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jajojo_v&show_icons=true&theme=radical&locale=es" alt="Estadísticas GitHub Jajojo_v (Español)" />
-</p>
-
-## 📊 Top Languages / Langues les plus utilisées / Lenguajes más utilizados
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jajojo_v&langs_count=6&layout=compact&theme=radical&locale=en" alt="Top Languages Jajojo_v (English)" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jajojo_v&langs_count=6&layout=compact&theme=radical&locale=fr" alt="Langues les plus utilisées Jajojo_v (Français)" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jajojo_v&langs_count=6&layout=compact&theme=radical&locale=es" alt="Lenguajes más utilizados Jajojo_v (Español)" />
-</p>
 
 ## 🌐 Social Media / Réseaux sociaux / Redes sociales
 
 <p>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile/" target="_blank">
+  <a href="[https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/jairo-vera-pezo/)" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
