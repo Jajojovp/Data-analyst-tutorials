@@ -43,11 +43,10 @@ RecyPro es un proyecto enfocado en la sostenibilidad ambiental y la responsabili
 - 🛠 Create personal projects and collaborate on projects that interest me / Créer des projets personnels et collaborer sur des projets qui m'intéressent / Crear proyectos personales y colaborar en proyectos que me interesen
 - 🌍 Contribute to environmentally-friendly and socially responsible projects / Contribuer à des projets respectueux de l'environnement et socialement responsables / Contribuir a proyectos ecológicos y socialmente responsables
 
-
 ## 🌐 Social Media / Réseaux sociaux / Redes sociales
 
 <p>
-  <a href="linkedin.com/in/jairo-vera-pezo" target="_blank">
+  <a href="https://www.linkedin.com/in/jairo-vera-pezo/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
