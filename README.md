@@ -1,4 +1,4 @@
-# Hi, I'm Jairo Vera / Bonjour, je m'appelle Jairo Vera / Hola, soy Jairo Vera 👋
+# Hi, I'm Jairo Vera / Bonjour, je m'appelle Jairo Vera / Hola, soy Jairo Vera 👋 
 
 <img align="right" src="perfilanime.JPEG" width="300" alt="Profile image">
 
