@@ -1,6 +1,6 @@
 # Hi, I'm Jairo Vera / Bonjour, je m'appelle Jairo Vera / Hola, soy Jairo Vera 👋
 
-<img align="right" src="https://drive.google.com/file/d/1mwyFJTF9UejoLPl3jHO53fAAaI7f2RD3/view?usp=share_link" width="300" alt="Profile image">
+<img align="right" src="perfilanime.JPEG" width="300" alt="Profile image">
 
 I am a **Data Analyst** and **Data Scientist** passionate about helping the environment and working on socially and ecologically responsible projects, like [RecyPro](https://github.com/Jajojo_v/recypro). I love working with Python, SQL, R, Power BI, and Tableau. I am also experienced in Finance, Cryptocurrencies, and WordPress. I am currently based in Québec, Canada, and I am open to job opportunities and collaborating on interesting projects.
 
